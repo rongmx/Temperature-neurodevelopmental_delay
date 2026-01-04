@@ -15,7 +15,7 @@ Due to data privacy and ethical restrictions, the original study data are **not 
 
 ---
 
-# Repository Structure
+## Repository Structure
 - 01_data_preparation.R
 - 02_main_analysis.R
 - 03_sensitivity_analysis.R
@@ -24,5 +24,5 @@ Due to data privacy and ethical restrictions, the original study data are **not 
 
 ---
 
-# Citation
+## Citation
 If you use this code in your research, please cite our study: To be updated
