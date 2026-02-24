@@ -3,6 +3,8 @@ This repository contains the R code used for the main analyses presented in the 
 
 **"Early-life heat exposure increases the risk of neurodevelopmental delay in preschool children"**
 
+The article is available online at: https://www.nature.com/articles/s41558-026-02560-w
+
 ---
 
 ## Overview
