@@ -21,7 +21,6 @@ Due to data privacy and ethical restrictions, the original study data are **not 
 - 01_data_preparation.R
 - 02_main_analysis.R
 - 03_sensitivity_analysis.R
-- 04_figures_and_tables.R
 - README.md
 
 ---
